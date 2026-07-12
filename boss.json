@@ -1,0 +1,11 @@
+{
+	"name": "horse-helmet",
+	"description": "Middleware para configuração rápida e simples de cabeçalhos de segurança HTTP no framework Horse",
+	"version": "1.0.0",
+	"homepage": "https://github.com/regyssilveira/horse-helmet",
+	"mainsrc": "src/",
+	"projects": [],
+	"dependencies": {
+		"github.com/hashload/horse": "^3.1.0"
+	}
+}

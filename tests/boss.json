@@ -1,0 +1,11 @@
+{
+  "name": "tests-helmet",
+  "description": "Tests for horse-helmet middleware",
+  "version": "1.0.0",
+  "homepage": "https://github.com/regyssilveira/horse-helmet",
+  "license": "MIT",
+  "dependencies": {
+    "github.com/hashload/horse": "^3.1.0",
+    "github.com/viniciussanchez/restrequest4d": "^3.2.0"
+  }
+}
