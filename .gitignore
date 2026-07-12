@@ -1,0 +1,31 @@
+# Boss package manager dependencies
+/modules/
+
+# Delphi compiled units
+*.dcu
+*.ddp
+*.local
+*.identcache
+*.projlocal
+*.tvsconfig
+*.~*
+
+# Lazarus compiled units
+*.o
+*.ppu
+*.rst
+*.lrt
+*.or
+*.compiled
+
+# Output binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+/bin/
+
+# Temporary / OS files
+Thumbs.db
+.DS_Store
