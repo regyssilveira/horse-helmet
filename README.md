@@ -1,8 +1,5 @@
 # horse-helmet
 
-[![Delphi Supported Versions](https://img.shields.br/badge/Delphi-XE8%20%2B-blue.svg)](https://www.embarcadero.com/)
-[![FPC Supported](https://img.shields.br/badge/FPC-3.2.0%20%2B-orange.svg)](https://www.freepascal.org/)
-[![Boss Package Manager](https://img.shields.io/badge/Boss-1.0.0-green.svg)](https://github.com/HashLoad/boss)
 
 Middleware para o framework **Horse** voltado à configuração rápida e simples de cabeçalhos de segurança HTTP em aplicações Delphi e Lazarus (FPC).
 
