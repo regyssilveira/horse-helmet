@@ -112,5 +112,6 @@ A interface fluida `IHelmetConfig` fornece os seguintes métodos:
 
 ---
 
-## ⚠️ Licença
-`horse-helmet` é licenciado sob a licença [MIT](LICENSE).
+## 📄 Licença
+
+Este projeto está licenciado sob a [Apache License 2.0](LICENSE).
